@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- The drive_bot node -->
+  <node name="skid_steer_mapping_node" type="skid_steer_mapping_node" pkg="pub_joints" output="screen">
+  </node>
+  
+</launch>
